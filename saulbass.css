@@ -105,3 +105,8 @@ div.h1, div.h2 {
 	margin-left: 200px;  
 }
 
+#img {
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
